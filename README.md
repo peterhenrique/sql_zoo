@@ -4,4 +4,4 @@ In here I'll realize the SQL ZOO tutorials located in <https://sqlzoo.net/wiki/S
 # opinions nov 2
 They were really hard and some of the most abstract ones (like SELF JOIN 10), were beyond my knowledge.
 
-I hope to get better at SQL and revisit this. Above all, it was a great learning exercise
+I hope to get better at SQL and revisit this. Mostly, it was a great learning exercise and showed how much I still have to learn.
